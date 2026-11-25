@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ankit Kumar (Anni)
 
-I build desktop apps in Java, small computer-vision tools in Python, and responsive web pages with HTML, CSS and JavaScript.
+I am currently working at Ethara-AI.
 
 🌐 **Portfolio:** [ankit1406-portfolio.vercel.app](https://ankit1406-portfolio.vercel.app/)
 
