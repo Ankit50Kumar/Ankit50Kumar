@@ -39,7 +39,7 @@ I build desktop apps in Java, small computer-vision tools in Python, and respons
 
 | Project | Description |
 | --- | --- |
-| [ankit-portfolio](https://github.com/Ankit50Kumar/ankit-portfolio) | My personal portfolio site, with projects and certificates. [Live demo](https://ankit-portfolio-khaki.vercel.app) |
+| [ankit-portfolio](https://github.com/Ankit50Kumar/ankit-portfolio) | My personal portfolio site, with projects and certificates. [Live demo](https://ankit1406-portfolio.vercel.app/) |
 | [Netflix-clone](https://github.com/Ankit50Kumar/Netflix-clone) | Landing page clone built with HTML and CSS. |
 | [temperature-converter](https://github.com/Ankit50Kumar/temperature-converter) | Converts between Celsius, Fahrenheit and Kelvin in the browser. |
 
