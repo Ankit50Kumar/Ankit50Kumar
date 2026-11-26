@@ -2,6 +2,8 @@
 
 I am currently working at Ethara-AI.
 
+I build desktop apps in Java, Python tools for computer vision and job matching (Django), and responsive web pages with HTML, CSS and JavaScript.
+
 🌐 **Portfolio:** [ankit1406-portfolio.vercel.app](https://ankit1406-portfolio.vercel.app/)
 
 ---
@@ -10,6 +12,7 @@ I am currently working at Ethara-AI.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -34,6 +37,7 @@ I am currently working at Ethara-AI.
 | Project | Description |
 | --- | --- |
 | [face-recognition-based-attendance-system](https://github.com/Ankit50Kumar/face-recognition-based-attendance-system) | Marks attendance automatically by recognizing faces with OpenCV and `face_recognition`, and saves it to CSV. |
+| [Resume--to-Job-Matcher](https://github.com/Ankit50Kumar/Resume--to-Job-Matcher) | Django app that pulls job postings from Adzuna, Jooble, JSearch, Remotive and Arbeitnow, dedupes them and extracts required skills to match against a resume. Work in progress. |
 
 #### 🌐 Web
 
