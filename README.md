@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ankit Kumar (Anni)
+## Hi there 👋 I'm Ankit Kumar
 
 I am currently working at Ethara-AI.
 
